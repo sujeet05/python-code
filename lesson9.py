@@ -1,0 +1,5 @@
+name = raw_input("Enter your name ")
+profession = raw_input(" What is your Profession")
+skills = raw_input (" what is your skils")
+marks = (int)(raw_input(" what is your mark percentage in highest Qualification")) 
+print " candidate name is %s  and his profession is %s and skills in %s overall perentage is %d" %(name,profession,skills,marks)
